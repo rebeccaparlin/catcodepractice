@@ -1,0 +1,28 @@
+body {
+  background: #800080;
+}
+h1 {
+  float: left;
+}
+h1 {
+  background-color: green;
+}
+h1 {
+  color: purple}
+.catfacts {
+  background-color: pink;
+  color: purple;}
+  .catcolumn {
+    background-color: green;
+    color: purple;
+padding: 20px;
+  }
+
+    @media only screen and (max-width: 600px) {
+      body {
+        background-color: blue;
+      }
+      .catcolumn img {
+        width: 100%;
+      }
+    }
